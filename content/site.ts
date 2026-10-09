@@ -36,8 +36,8 @@ export const site: SiteContent = {
     ],
     eventDetails: {
       address: "вул. Героїв Чернобильців, 9А",
-      date: "5 вересня 2026",
-      time: "12:00",
+      date: "24 жовтня 2026",
+      time: "15:00",
     },
     compare: {
       resultPrice: "0 грн",
@@ -145,7 +145,7 @@ export const site: SiteContent = {
 
   contacts: {
     address: "вул. Героїв Чернобильців, 9А",
-    hours: "5 вересня 2026, 12:00",
+    hours: "24 жовтня 2026, 15:00",
     mapEmbed:
       "https://www.google.com/maps/d/viewer?mid=1GeGv2j-d5fUh9yN0MvxMsCwyRnjVme4&femb=1&ll=49.58314124258233%2C34.54482153597681&z=14",
     social: [
